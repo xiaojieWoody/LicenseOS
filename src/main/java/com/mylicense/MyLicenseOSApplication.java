@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MyLicenseClientApplication {
+public class MyLicenseOSApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MyLicenseClientApplication.class, args);
+		SpringApplication.run(MyLicenseOSApplication.class, args);
 	}
 
 }
