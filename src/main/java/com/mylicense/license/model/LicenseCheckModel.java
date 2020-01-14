@@ -18,6 +18,11 @@ public class LicenseCheckModel implements Serializable {
     private List<String> macAddress;
 
     /**
+     * 允许的IP地址
+     */
+    private List<String> ipAddress;
+
+    /**
      * 可被允许的CPU序列号
      */
     private String cpuSerial;
