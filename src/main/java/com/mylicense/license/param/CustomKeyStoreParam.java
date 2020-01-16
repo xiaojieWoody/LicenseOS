@@ -5,7 +5,8 @@ import de.schlichtherle.license.AbstractKeyStoreParam;
 import java.io.*;
 
 /**
- * 自定义KeyStoreParam，用于将公私钥存储文件存放到其他磁盘位置而不是项目中
+ * 自定义KeyStoreParam
+ * 将私钥文件存放到其他磁盘位置而不是项目中
  */
 public class CustomKeyStoreParam extends AbstractKeyStoreParam {
 

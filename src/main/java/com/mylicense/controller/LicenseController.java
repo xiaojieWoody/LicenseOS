@@ -1,7 +1,6 @@
 package com.mylicense.controller;
 
 import com.mylicense.common.ResMsg;
-import com.mylicense.config.LicenseConfig;
 import com.mylicense.license.param.LicenseCreatorParam;
 import com.mylicense.license.param.LicenseParamBean;
 import com.mylicense.service.ILicenseCreateService;
